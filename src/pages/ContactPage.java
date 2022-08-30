@@ -1,7 +1,8 @@
-package page;
+package pages;
 
-public classContacPage{
+public class ContactPage{
   
-  // html foremail
+  // html for email
+    // html
   
 }
